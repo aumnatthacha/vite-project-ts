@@ -27,7 +27,7 @@ function BMICalculatorComponent() {
 
     return (
         <div>
-            <h1>BMI Calculator TS</h1>
+            <h1>BMI Calculator TSs</h1>
             <div>
                 <label>Weight (kg):</label>
                 <input
